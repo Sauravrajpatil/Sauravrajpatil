@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I Am Saurav Raj Patil</h1>
 <h3 align="center">"As an enthusiastic Data Scientist and Data Engineer originally from India, I am currently exploring and expanding my expertise in the United Kingdom. My journey is driven by a passion for turning data into actionable insights and pioneering solutions."</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravrajpatil&label=Profile%20views&color=0e75b6&style=flat" alt="sauravrajpatil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravrajpatil&label=Profile%20views&color=0e75b6&style=flat" alt="sauravrajpatil" /> </p> 
 
 <p align="left"> <a href="https://twitter.com/sauravrajpatil" target="blank"><img src="https://img.shields.io/twitter/follow/sauravrajpatil?logo=twitter&style=for-the-badge" alt="sauravrajpatil" /></a> </p>
 
