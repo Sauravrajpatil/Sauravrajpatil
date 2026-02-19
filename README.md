@@ -7,7 +7,7 @@
 
 - 🔭"I am currently developing a personal expenses management dashboard using Power BI, focusing on creating intuitive and insightful visualizations to enhance financial decision-making." **Future Wallet**
 
-- 🌱 I’m currently learning **Power BI, and Go**
+- 🌱 I’m currently learning **Power BI.**
 
 - 🤝 I’m looking for help with **"I’m on the lookout for exciting new projects that will fuel my growth and expand my expertise."**
 
